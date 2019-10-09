@@ -1,4 +1,4 @@
-springmvc.xml≈‰÷√
+springmvc.xml≈‰÷√1
 <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
         <property name="messageConverters">
             <list>
