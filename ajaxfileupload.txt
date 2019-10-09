@@ -28,6 +28,6 @@ $.ajaxFileUploadÖĞdataType:"text"
 haha
 xixi
 hehe
-heihei11
-baibai
+heihei
+baibai1
 
