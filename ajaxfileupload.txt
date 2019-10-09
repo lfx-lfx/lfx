@@ -28,3 +28,4 @@ $.ajaxFileUpload÷–dataType:"text"
 haha
 xixi
 hehe
+heihei
