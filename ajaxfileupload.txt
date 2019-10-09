@@ -26,3 +26,4 @@ ajaxFileUpload.js文件中修改为
             // evaluate scripts within html
 $.ajaxFileUpload中dataType:"text"
 haha
+xixi
