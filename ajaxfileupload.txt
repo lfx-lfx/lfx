@@ -27,3 +27,4 @@ ajaxFileUpload.js文件中修改为
 $.ajaxFileUpload中dataType:"text"
 haha
 xixi
+hehe
