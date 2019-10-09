@@ -25,3 +25,4 @@ ajaxFileUpload.js文件中修改为
             data = jQuery.parseJSON(jQuery(data).val());
             // evaluate scripts within html
 $.ajaxFileUpload中dataType:"text"
+haha
